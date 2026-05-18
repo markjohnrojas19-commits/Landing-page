@@ -47,7 +47,7 @@ ul {
 }
 
 img {
-   width: 400px;
+    width: 400px;
     height: auto;
 }
 
@@ -118,33 +118,37 @@ img {
 }
 
 .border {
-display: flex;
-flex-direction: column;
-align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
 }
 
-.image1, .image2, .image4 {
-width: 300px;
-height: auto;
-  border: 4px solid #3F51B5; /* Vibrant indigo border */
-  border-radius: 9px;
+.image1,
+.image2,
+.image4 {
+    width: 300px;
+    height: auto;
+    border: 4px solid #3F51B5;
+    /* Vibrant indigo border */
+    border-radius: 9px;
 }
 
 .image3 {
     width: 300px;
     height: 200px;
-      border: 4px solid #3F51B5; /* Vibrant indigo border */
-  border-radius: 9px;
+    border: 4px solid #3F51B5;
+    /* Vibrant indigo border */
+    border-radius: 9px;
 }
 
 .text {
     padding-top: 16px;
     padding-bottom: 16px;
-     font-family: sans-serif;
-  font-weight: bold;
-  font-size: 14px;
-  margin-top: 10px;
-  letter-spacing: 1px;
-   color: #212121;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 10px;
+    letter-spacing: 1px;
+    color: #212121;
 }
